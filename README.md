@@ -1,4 +1,4 @@
-# watinglist
-this a test project
+#Waitinglist
+This a test project
 run :
 https://alihajiabbasi.ir/waitinglist 
